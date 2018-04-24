@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [Untitled](untitled.md)
+* [What is OpenPlotter?](README.md)
+* [Features](features.md)
 
